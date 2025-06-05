@@ -4,8 +4,8 @@ Este proyecto simula el entorno analítico de una empresa de retail y tiene como
 
 ## 📁 Estructura del Proyecto
 
-- `/Data sql`: Contiene los archivos CSV con datos simulados.
-- `/Retail Base de datos`: Script SQL para crear tablas y consultas clave.
+- `/DatOS`: Contiene los archivos CSV con datos simulados.
+- `/Script`: Script SQL para crear tablas y consultas clave.
 - `/Dashboard`: Dashboard interactivo creado con Power BI.
 
 ## 🧠 Objetivos del Proyecto
