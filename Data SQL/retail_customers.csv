@@ -1,0 +1,81 @@
+customer_id,name,gender,birthdate,city,signup_date
+1,Allison Hill,F,1969-08-12,Lake Curtis,2025-01-23
+2,Javier Johnson,M,1969-04-21,New Carolyn,2025-03-13
+3,Matthew Gardner,M,1969-06-05,Lawrencetown,2021-10-13
+4,Gina Moore,F,2006-05-19,Curtisfurt,2021-03-31
+5,Gregory Baker,M,1957-05-19,Herrerafurt,2021-02-03
+6,Sandra Montgomery,F,1979-01-13,Lake Chad,2022-05-13
+7,Victoria Wyatt,F,1961-04-19,Ramirezstad,2021-10-22
+8,Daniel Adams,F,2000-12-09,New Cynthiaside,2022-07-04
+9,James Mayo,F,1997-12-23,Lake Mark,2020-11-24
+10,Andrew Stewart,F,1972-08-23,East Robinshire,2023-02-06
+11,Jonathan Wilkerson,F,1998-03-04,Thomasberg,2022-07-10
+12,Kimberly Burgess,M,1983-07-31,Coxberg,2024-10-04
+13,Peter Callahan Jr.,M,1965-04-24,Carlsonfurt,2023-09-02
+14,Julie King,F,1992-01-27,Lake Jenniferside,2022-09-10
+15,Gina Carter,M,1965-03-10,Smithview,2024-09-06
+16,Katie Rodriguez,M,1996-12-22,Meaganhaven,2022-02-11
+17,Phillip Ryan,M,2007-05-30,New Mariotown,2021-05-17
+18,Sherry Decker,F,1975-05-09,North John,2025-04-01
+19,Angelica Tucker,M,1959-02-19,East Donna,2025-02-06
+20,Joseph Obrien,M,1968-11-02,Lake Larry,2023-08-08
+21,Joseph Martinez,F,1969-09-18,West Andrewside,2022-05-19
+22,Adrienne Zimmerman,M,1958-06-07,North Rebecca,2023-03-27
+23,David Caldwell,M,1969-01-01,Lake Selena,2025-04-13
+24,Dana Kennedy,M,1982-02-15,North Collin,2024-02-03
+25,Jason Shields,M,1958-02-10,North Richardmouth,2021-05-09
+26,Connor West,M,1983-02-18,West Steven,2021-01-24
+27,Scott Pierce,M,1957-11-13,North Sarabury,2021-11-02
+28,John Hancock,M,1958-06-01,South Aaron,2023-09-29
+29,Richard Gibson,F,1983-03-18,Mooreport,2022-04-11
+30,Lauren Daniels,M,2005-04-29,Brianshire,2024-06-24
+31,Sarah Moore,M,1988-12-25,Port Jacobland,2022-06-04
+32,Todd Hudson,M,1993-10-27,New Christophershire,2025-03-26
+33,Taylor Harris,M,2003-03-01,Johnfurt,2021-07-15
+34,Elizabeth Stewart,F,2005-08-03,North Stephenshire,2021-04-10
+35,Daniel Baker,F,1978-03-05,East Mikeburgh,2024-02-25
+36,Michele Carr,F,1998-12-05,Lake Lisaport,2021-04-21
+37,Brandy Wilson,M,1961-09-16,West Juan,2022-03-20
+38,Christina Walters,F,1972-05-22,Kington,2021-03-17
+39,Sandra Williams,M,1977-02-14,Lake Tina,2021-10-19
+40,Kristen Patterson,F,1955-01-31,North Sierraberg,2025-01-24
+41,Jacob Tran,F,1983-09-03,North Kyle,2020-10-05
+42,Christine Wright,M,1961-06-02,Kimberlychester,2021-09-27
+43,Cynthia Martin,F,1966-06-22,Johnsonmouth,2023-12-05
+44,Sharon Cochran,F,1972-07-31,Port Jacqueline,2023-09-05
+45,Shannon Walker,F,1985-09-30,Kevinbury,2022-04-27
+46,Corey Murphy,M,1959-02-24,Michaelhaven,2023-10-28
+47,Sarah Rivera,M,1956-04-21,West Gregoryview,2020-09-30
+48,Jeffrey Chandler,F,1975-10-09,Obrienhaven,2021-05-29
+49,Kenneth Scott,M,2002-08-28,Smithside,2022-02-06
+50,Benjamin Beck,M,1976-11-23,Elizabethville,2022-12-24
+51,Mary Nguyen,M,2001-11-14,Angelaborough,2024-01-01
+52,Jamie Adkins,F,1966-04-08,Richardtown,2023-01-04
+53,Jeffrey Carpenter,M,1998-12-23,Stevenmouth,2022-03-29
+54,Rebecca Moyer,F,2004-07-04,Lake Christopher,2024-10-22
+55,Lisa Davis,M,2005-07-16,Lake Lance,2022-02-12
+56,Angel Riggs,M,1996-01-09,South Robertshire,2022-01-29
+57,Janet Ross,F,1964-06-19,Port Michelleville,2024-01-15
+58,Robert Dominguez,F,1986-01-14,New Johnville,2024-04-22
+59,John Schmidt,M,1992-06-17,Stephaniemouth,2024-09-19
+60,Terry Griffin,F,1965-04-03,Colebury,2022-10-13
+61,Kelly Sims,F,1973-02-10,Jonesport,2022-06-02
+62,Francisco Fernandez,M,1963-11-04,East Patrick,2021-09-21
+63,Amy Russell,F,1991-05-08,Perryborough,2023-12-31
+64,Randy Shah,M,1955-10-03,Woodsstad,2022-12-18
+65,Sarah Ashley,M,1982-12-09,South Jeffrey,2024-02-18
+66,Mr. Michael Yates,F,2003-09-15,Port Tanner,2021-07-05
+67,Ms. Susan Vargas,M,1999-07-17,North Dawnberg,2024-05-08
+68,David Murphy,M,1985-05-14,Matthewfurt,2022-10-16
+69,Sandra King,M,1959-12-31,Smithside,2020-11-12
+70,Mrs. Marie Harrington DDS,F,2005-10-01,East Jamestown,2021-09-20
+71,John Wilson,F,1969-04-04,Lyonsstad,2021-11-07
+72,Tracey Higgins,M,2007-05-10,West Daniel,2020-08-22
+73,Laura Odonnell,F,1979-12-19,Davidborough,2021-01-26
+74,Sandra Sanchez,M,2001-11-13,Melissaville,2025-03-28
+75,Hannah Patterson,F,1979-08-23,New Deborahtown,2023-12-31
+76,Ashley Yu,F,1997-09-04,Zimmermanchester,2021-12-03
+77,Tracie Nelson,F,1991-01-18,Marshallshire,2022-09-15
+78,David Michael,M,1973-05-28,Sanchezmouth,2025-04-09
+79,Jamie Johnson,M,1976-07-17,South Jason,2022-08-15
+80,Spencer Haynes,F,1973-03-23,New Stacyland,2022-06-23
